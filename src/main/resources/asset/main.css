@@ -1,0 +1,13 @@
+table, th, td {
+  border: 1px solid blue;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 1em;
+}
+td.number {
+  text-align: right;
+}
